@@ -1,0 +1,12 @@
+<report>
+  <location>
+    <data>
+      <name id="79402">la Pineda d'en Feu</name>
+      <url>http://api.tiempo.com/index.php?api_lang=es&amp;localidad=79402</url>
+    </data>
+    <data>
+      <name id="79224">les Roquetes</name>
+      <url>http://api.tiempo.com/index.php?api_lang=es&amp;localidad=79224</url>
+    </data>
+  </location>
+</report>

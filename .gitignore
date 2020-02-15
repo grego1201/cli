@@ -1,3 +1,6 @@
 # Ignore vim tmp files
-
 *.swp
+
+# Ignore config/application.yml for privacity
+
+config/application.yml

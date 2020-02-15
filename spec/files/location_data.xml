@@ -1,0 +1,34 @@
+<report>
+  <location>
+    <var>
+      <name>Día</name>
+      <icon>15</icon>
+    </var>
+    <var>
+      <name>Temperatura Máxima</name>
+      <icon>2</icon>
+      <data>
+        <forecast data_sequence="1" value="19"/>
+        <forecast data_sequence="2" value="15"/>
+        <forecast data_sequence="3" value="17"/>
+        <forecast data_sequence="4" value="18"/>
+        <forecast data_sequence="5" value="22"/>
+        <forecast data_sequence="6" value="15"/>
+        <forecast data_sequence="7" value="14"/>
+      </data>
+    </var>
+    <var>
+      <name>Temperatura Mínima</name>
+      <icon>2</icon>
+      <data>
+        <forecast data_sequence="1" value="8"/>
+        <forecast data_sequence="2" value="8"/>
+        <forecast data_sequence="3" value="7"/>
+        <forecast data_sequence="4" value="7"/>
+        <forecast data_sequence="5" value="7"/>
+        <forecast data_sequence="6" value="6"/>
+        <forecast data_sequence="7" value="5"/>
+      </data>
+    </var>
+  </location>
+</report>
