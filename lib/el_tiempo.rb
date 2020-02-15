@@ -10,7 +10,7 @@ class ElTiempo
   LOCATION_PARAM = 'localidad='
   AFFILIATE_PARAM = 'affiliate_id='
 
-  def self.calc(options, affiliate_id = nil, location_id = nil)
+  def self.calc(options = [], affiliate_id = nil, location_id = nil)
     @city = options[1]
     @affiliate_id = affiliate_id
     @location_id = location_id
